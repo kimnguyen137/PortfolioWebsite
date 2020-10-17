@@ -2,8 +2,8 @@
 Build a fully responsive portfolio website using modern technologies such as... 
 
 ### Programming languages, Tools and Frameworks
-HTML5  
-CSS3 - Transitions/Grid/Flex  
+- HTML5  
+- CSS3 - Transitions/Grid/Flex  
 Sass  
 NPM Package Manager  
 JavaScript  
